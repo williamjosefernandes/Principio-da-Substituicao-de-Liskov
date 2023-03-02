@@ -1,10 +1,10 @@
-package br.com.william.fernandes.lsp.ui.main
+package br.com.william.fernandes.lsp.presentation.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import br.com.william.fernandes.lsp.CozinheiroViewModel
+import br.com.william.fernandes.lsp.presentation.viewmodel.CozinheiroViewModel
 import br.com.william.fernandes.lsp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

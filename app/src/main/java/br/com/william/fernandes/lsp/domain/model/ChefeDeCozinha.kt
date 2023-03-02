@@ -1,4 +1,4 @@
-package br.com.william.fernandes.lsp
+package br.com.william.fernandes.lsp.domain.model
 
 class ChefeDeCozinha : Cozinheiro() {
     fun criarNovoPrato() {

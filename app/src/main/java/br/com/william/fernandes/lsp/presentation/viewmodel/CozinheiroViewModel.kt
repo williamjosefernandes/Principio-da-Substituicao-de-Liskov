@@ -1,8 +1,9 @@
-package br.com.william.fernandes.lsp
+package br.com.william.fernandes.lsp.presentation.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import br.com.william.fernandes.lsp.domain.model.ChefeDeCozinha
 
 class CozinheiroViewModel : ViewModel() {
 
